@@ -13,7 +13,7 @@ safety rules.
 | [TrimbleX9-mcp](https://github.com/northidaholabs/TrimbleX9-mcp) | MCP server that gives any MCP-capable AI agent the scanner's tools, directly or through the bridge |
 | [trimble-tzf](https://github.com/northidaholabs/trimble-tzf) | Decoder for the TZF point-cloud format: levelled XYZ, PLY and LAS export |
 
-All three are interoperability projects for equipment we own. Each has a
+All three are interoperability projects for equipment we have access to. Each has a
 `PROVENANCE.md` that records how its format or API knowledge was obtained.
 They are independent and **not affiliated with or endorsed by Trimble Inc.**;
 "Trimble" and "X9" are trademarks of their respective owners.
