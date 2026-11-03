@@ -1,9 +1,6 @@
 # North Idaho Labs
 
-North Idaho Labs (NIL) builds open tools for **AI-first reality capture**: a person
-states the outcome ("measure this window for a replacement"), and an AI agent
-plans, aims, scans and checks its own work in the field, through an open API with
-safety rules.
+Open tools for laser scanners, drones and public infrastructure data, from North Idaho Labs, an applied lab in Moscow, Idaho.
 
 ## Projects
 
