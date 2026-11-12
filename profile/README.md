@@ -1,6 +1,6 @@
 # North Idaho Labs
 
-North Idaho Labs is an applied lab in Moscow, Idaho. The main project here replaces the point-and-click steps of reality capture software with AI reasoning. You give an AI agent the objective for the job, and it plans each scanner setup from the last scan and ties each new station into the ones before it until the job is done. And you can ask your favorite chatbot about the point cloud and get real measurements back, like window sizes and wall heights. Claude and Grok can both run it. Registering drone point clouds is next.
+The main project here replaces the point-and-click steps of reality capture software with AI reasoning. You give an AI agent the objective for the job, and it plans each scanner setup from the last scan and ties each new station into the ones before it until the job is done. And you can ask your favorite chatbot about the point cloud and get real measurements back, like window sizes and wall heights. Claude and Grok can both run it. Registering drone point clouds is next.
 
 ## Projects
 
